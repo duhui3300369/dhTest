@@ -11,5 +11,6 @@ public class WebTest {
 		 System.out.println(checkAreaByPhoneNum);
 		 String checkTypeByPhoneNum = phone.checkTypeByPhoneNum("15176014151");
 		 System.out.println(checkTypeByPhoneNum);
+		 System.out.println("我只是试试看看效果而已");
 	}
 }
